@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+
+    <string name="zero">0</string>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c3">3</string>
+    <string name="c4">4</string>
+    <string name="c5">5</string>
+    <string name="c6">6</string>
+    <string name="c7">7</string>
+    <string name="c8">8</string>
+    <string name="c9">9</string>
+    <string name="cmas">+</string>
+    <string name="cmenos">-</string>
+    <string name="cdiv">/</string>
+    <string name="cmul">*</string>
+    <string name="cdl">del</string>
+    <string name="cigual">=</string>
+    <string name="cpunto">.</string>
+</resources>
